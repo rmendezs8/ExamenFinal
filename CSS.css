@@ -1,0 +1,53 @@
+body {
+	background-color: lightyellow; 
+	align-content: center;
+}
+
+
+h1 {
+	text-align: center; 
+	color: darkred;
+	font-style: italic;
+}
+
+h2 {
+	text-align: center; 
+	color: red;
+	font-size: 25px;
+}
+
+p {
+	text-align: justify; 
+	font-size: 19px;
+	color: darkblue;
+	padding-right: 100px;
+	padding-left: 100px;
+}
+
+table {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0px;
+	color: blue;
+	font-size: 22px;
+}
+
+td {
+	padding: 30px;
+	border: 5px solid blue;
+	background-color: lime;
+}
+
+footer {
+	text-align: center; 
+	color: blue;
+	font-size: 22px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
